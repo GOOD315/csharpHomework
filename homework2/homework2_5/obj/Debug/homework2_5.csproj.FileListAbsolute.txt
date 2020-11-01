@@ -1,0 +1,6 @@
+C:\Users\DIMA\source\repos\homework2\homework2_5\bin\Debug\homework2_5.exe.config
+C:\Users\DIMA\source\repos\homework2\homework2_5\bin\Debug\homework2_5.exe
+C:\Users\DIMA\source\repos\homework2\homework2_5\bin\Debug\homework2_5.pdb
+C:\Users\DIMA\source\repos\homework2\homework2_5\obj\Debug\homework2_5.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\homework2\homework2_5\obj\Debug\homework2_5.exe
+C:\Users\DIMA\source\repos\homework2\homework2_5\obj\Debug\homework2_5.pdb
