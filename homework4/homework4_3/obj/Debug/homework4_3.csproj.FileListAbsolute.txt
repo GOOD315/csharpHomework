@@ -1,0 +1,7 @@
+C:\Users\DIMA\source\repos\homework4\homework4_3\bin\Debug\homework4_3.exe.config
+C:\Users\DIMA\source\repos\homework4\homework4_3\bin\Debug\homework4_3.exe
+C:\Users\DIMA\source\repos\homework4\homework4_3\bin\Debug\homework4_3.pdb
+C:\Users\DIMA\source\repos\homework4\homework4_3\obj\Debug\homework4_3.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\homework4\homework4_3\obj\Debug\homework4_3.exe
+C:\Users\DIMA\source\repos\homework4\homework4_3\obj\Debug\homework4_3.pdb
+C:\Users\DIMA\source\repos\homework4\homework4_3\obj\Debug\homework4_3.csprojAssemblyReference.cache
