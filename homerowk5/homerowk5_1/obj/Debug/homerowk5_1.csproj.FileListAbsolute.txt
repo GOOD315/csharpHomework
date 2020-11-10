@@ -1,0 +1,7 @@
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\bin\Debug\homerowk5_1.exe.config
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\bin\Debug\homerowk5_1.exe
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\bin\Debug\homerowk5_1.pdb
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\obj\Debug\homerowk5_1.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\obj\Debug\homerowk5_1.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\obj\Debug\homerowk5_1.exe
+C:\Users\DIMA\source\repos\homerowk5\homerowk5_1\obj\Debug\homerowk5_1.pdb
