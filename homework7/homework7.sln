@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework7_1", "homework7_1\homework7_1.csproj", "{1693DB7B-4B2A-453F-A802-CE8EEF8A2DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework7_21", "homework7_21\homework7_21.csproj", "{CE2DF480-F67B-434F-A224-21152BA8CE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework7_2", "homework7_2\homework7_2.csproj", "{BAD40F27-760C-4C52-880C-C9AD3F345A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1693DB7B-4B2A-453F-A802-CE8EEF8A2DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1693DB7B-4B2A-453F-A802-CE8EEF8A2DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1693DB7B-4B2A-453F-A802-CE8EEF8A2DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1693DB7B-4B2A-453F-A802-CE8EEF8A2DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2DF480-F67B-434F-A224-21152BA8CE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2DF480-F67B-434F-A224-21152BA8CE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2DF480-F67B-434F-A224-21152BA8CE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2DF480-F67B-434F-A224-21152BA8CE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD40F27-760C-4C52-880C-C9AD3F345A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD40F27-760C-4C52-880C-C9AD3F345A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD40F27-760C-4C52-880C-C9AD3F345A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD40F27-760C-4C52-880C-C9AD3F345A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CDF2EC-B141-4C5B-8E46-02F4E87269A1}
+	EndGlobalSection
+EndGlobal
