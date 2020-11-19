@@ -1,0 +1,10 @@
+C:\Users\DIMA\source\repos\homework7\homework7_21\bin\Debug\homework7_21.exe.config
+C:\Users\DIMA\source\repos\homework7\homework7_21\bin\Debug\homework7_21.exe
+C:\Users\DIMA\source\repos\homework7\homework7_21\bin\Debug\homework7_21.pdb
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.Form1.resources
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.Properties.Resources.resources
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.exe
+C:\Users\DIMA\source\repos\homework7\homework7_21\obj\Debug\homework7_21.pdb
