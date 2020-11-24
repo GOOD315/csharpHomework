@@ -1,0 +1,10 @@
+C:\Users\DIMA\source\repos\homework8\homework8_4\bin\Debug\homework8_4.exe.config
+C:\Users\DIMA\source\repos\homework8\homework8_4\bin\Debug\homework8_4.exe
+C:\Users\DIMA\source\repos\homework8\homework8_4\bin\Debug\homework8_4.pdb
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.Form1.resources
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.Properties.Resources.resources
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.exe
+C:\Users\DIMA\source\repos\homework8\homework8_4\obj\Debug\homework8_4.pdb
